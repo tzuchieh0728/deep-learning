@@ -1,5 +1,4 @@
 # deep-learning project
-
 # 行走路線及障礙偵測
 
 
@@ -56,7 +55,9 @@ img_path  = "YOUR_IMG_PATH"
 input_video  = "YOUR_VIDEO_PATH"
 output_video = "YOUR_RESULT_VIDEO_PATH"
 ```
+
 5. Gradio畫面展示: 執行Gradio即時呈現區塊，點擊下方輸出格的網址，模擬手機即時生成導引影片的功能
+
 ```
 * Running on public URL: https://a2d7755fb3bffe8616.gradio.live
 ```
