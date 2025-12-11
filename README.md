@@ -1,6 +1,4 @@
-# deep-learning project
-# 行走路線及障礙偵測
-
+# deep-learning project 行走路線及障礙偵測
 
 ## 研究介紹
 
@@ -36,12 +34,13 @@
 
 ## 如何使用
 
-1.透過pip安裝下列檔案
+1.下載主程式碼後於google colab開啟程式碼檔案並連線
+
+2.執行各function區塊，下載必要套件。
+
 ```python
 !pip install ultralytics torch torchvision
 ```
-
-2.下載並於google colab開啟程式碼檔案
 
 3.單圖片分析：於base code區塊開頭將`img_path`修改成自己的圖片路徑，進行單圖片分析。
 
